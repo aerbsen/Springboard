@@ -1,8 +1,5 @@
 This folder contains:
 
-Documentation: A PDF describing the data source files can be found here: https://github.com/Lanbig/CSC465-visualization-project/blob/master/Dataset/dunnhumby%20-%20The%20Complete%20Journey%20User%20Guide.pdf
-The Kaggle page I downloaded the data from is here: https://www.kaggle.com/datasets/frtgnn/dunnhumby-the-complete-journey
-
 Code: The 5 ipynb notebooks are in the 'Notebooks' folder. They are:
   1 Dunnhumby EDA
   2 Dunnhumby- Pre-processing and Baseline Modeling
@@ -14,6 +11,6 @@ Data: The data files in CSV format under 25 mb are located in the 'Data' folder.
 
 Metrics: The model metrics for the two completed models are in the 'Model Metrics' folder
 
-Documents: The proposal, final report, presentation slide deck, all in PDF, are located in the 'Documents' folder. 
+Documentation: The proposal, final report, presentation slide deck, and the user guide for the source data are located in the 'Documents' folder. 
 
 Additionally, a Tableau Public notebook with EDA visualizations is located at this link: 
