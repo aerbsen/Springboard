@@ -12,6 +12,8 @@ Code: The 5 ipynb notebooks are in the 'Notebooks' folder. They are:
 
 Data: The data files in CSV format under 25 mb are located in the 'Data' folder. The larger data files are available on Google Drive: https://drive.google.com/drive/folders/1xgPulbYfH3g392-bIXzgsquT-F0_OLla?usp=drive_link
 
+Metrics: The model metrics for the two completed models are in the 'Model Metrics' folder
+
 Documents: The proposal, final report, presentation slide deck, all in PDF, are located in the 'Documents' folder. 
 
 Additionally, a Tableau Public notebook with EDA visualizations is located at this link: 
